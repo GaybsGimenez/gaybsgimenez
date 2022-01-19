@@ -1,6 +1,6 @@
 ## Oie!! Eu sou a Gabriela Gimenez 👋
 
-- 🎓 Linguista em formação pela Universidade Federal de São Carlos (UFSCar)
+- 🎓 Bacharela em Linguista pela Universidade Federal de São Carlos (UFSCar)
 - 🐍 Atualmente estudo Python
 - 💻 Tenho interesse e curiosidade em:
     - NLP 
