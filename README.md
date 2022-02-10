@@ -5,9 +5,14 @@
 - 💻 Tenho interesse e curiosidade em:
     - NLP 
     - Linguística computacional
-
+    - Processamento de texto
+    - Aprendizado de máquina 
+    
+    Enfim... tudo isso que abrange essa área chamada Processamento de língua(gem) natural. :)
   
   ###
+  
+  Você pode me encontrar nesses canais: 
   
 <div> 
   <a href="https://www.linkedin.com/in/gabriela-gimenez-787047a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
