@@ -1,8 +1,10 @@
 ## Oie!! Eu sou a Gabriela Gimenez 👋
 
 - 🎓 Bacharela em Linguista pela Universidade Federal de São Carlos (UFSCar)
-- 🐍 Atualmente estudo Python
-- 💻 Tenho interesse e curiosidade em:
+- 💻 Cursando MBA em Data Science e Analytics na USP/Esalq
+- 🐍 Atualmente estudo Python 
+
+### Tenho interesse e curiosidade em:
     - NLP 
     - Linguística computacional
     - Processamento de texto
