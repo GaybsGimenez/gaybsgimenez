@@ -5,8 +5,6 @@
 - 💻 Tenho interesse e curiosidade em:
     - NLP 
     - Linguística computacional
-    - Machine Learning
-    - Deep Learning
 
 <div>
   <a href="https://github.com/GaybsGimenez">
