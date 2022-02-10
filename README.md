@@ -7,10 +7,10 @@
 ### Tenho interesse e curiosidade em:
     - NLP 
     - Linguística computacional
-    - Processamento de texto
-    - Aprendizado de máquina 
+    - Machine Learning
+    - Deep Learning 
     
-    Enfim... tudo isso que abrange essa área chamada Processamento de língua(gem) natural. :)
+    Enfim... tudo isso que abrange essa área da Inteligência Artificial, chamada Linguística Computacional :)
   
   ###
   
