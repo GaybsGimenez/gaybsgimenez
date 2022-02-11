@@ -10,7 +10,7 @@
     - Machine Learning
     - Deep Learning 
     
-    Enfim... tudo isso que abrange essa área da Inteligência Artificial, chamada Linguística Computacional :)
+    :)
   
   ### Você pode também me encontrar nesses canais: 
   
