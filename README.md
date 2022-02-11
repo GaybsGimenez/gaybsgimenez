@@ -4,7 +4,7 @@
 - 💻 Cursando MBA em Data Science e Analytics na USP/Esalq
 - 🐍 Atualmente estudo Python 
 
-### Tenho interesse e curiosidade em:
+### Tenho interesses e curiosidades em:
     - NLP 
     - Linguística computacional
     - Machine Learning
