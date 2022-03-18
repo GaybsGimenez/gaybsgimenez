@@ -13,7 +13,7 @@
     :)
     
   <img align="center" alt="Gaybs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gaybs-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/r-original.svg">
+  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/r-original.svg">
   
   
   ### Você pode também me encontrar nesses canais: 
