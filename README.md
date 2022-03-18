@@ -2,7 +2,6 @@
 
 - 🎓 Bacharela em Linguista pela Universidade Federal de São Carlos (UFSCar)
 - 💻 Cursando MBA em Data Science e Analytics na USP/Esalq
-- 🐍 Atualmente estudo Python 
 
 ### Tenho interesses e curiosidades em:
     - NLP 
