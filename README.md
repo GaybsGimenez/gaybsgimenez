@@ -1,13 +1,11 @@
 ## Oie!! Eu sou a Gabriela Gimenez 👋
 
-- 🎓 Bacharela em Linguista pela Universidade Federal de São Carlos (UFSCar)
-- 💻 Cursando MBA em Data Science e Analytics na USP/Esalq
+- 🎓 Bacharela em Linguista, com ênfase em linguística computacional, pela Universidade Federal de São Carlos (UFSCar)
+- 💻 Aprendendo Python e R
 
 ### Tenho interesses e curiosidades em:
     - NLP 
     - Linguística computacional
-    - Machine Learning
-    - Deep Learning 
     
     :)
 
