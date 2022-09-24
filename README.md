@@ -1,6 +1,6 @@
 ## Oie!! Eu sou a Gabriela Gimenez 👋
 
-- 🎓 Bacharela em Linguista, com ênfase em linguística computacional, pela Universidade Federal de São Carlos (UFSCar)
+- 🎓 Bacharela em Linguística, com ênfase em linguística computacional, pela Universidade Federal de São Carlos (UFSCar)
 - 💻 Aprendendo Python e R
 
 ### Tenho interesses e curiosidades em:
