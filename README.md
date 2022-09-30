@@ -1,7 +1,7 @@
 ## Oie!! Eu sou a Gabriela Gimenez 👋
 
 - 🎓 Bacharela em Linguística, com ênfase em linguística computacional, pela Universidade Federal de São Carlos (UFSCar)
-- 💻 Aprendendo Python e R
+- 💻 Aprendendo Python 
 
 ### Tenho interesses e curiosidades em:
     - NLP 
@@ -12,7 +12,6 @@
 </div>   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gaybs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gaybs-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
    
 </div>
 
