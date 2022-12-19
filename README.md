@@ -7,7 +7,7 @@
     - NLP 
     - Linguística computacional
     
-    :wink: 
+    😉
 
 </div>   
 <div style="display: inline_block"><br>
