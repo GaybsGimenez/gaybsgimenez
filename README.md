@@ -1,11 +1,14 @@
-## Oie!! Eu sou a Gabriela Gimenez 👋
+## Hello! I'm Gabriela! 👋
 
-- 🎓 Bacharela em Linguística, com ênfase em linguística computacional, pela Universidade Federal de São Carlos (UFSCar)
-- 💻 Aprendendo Python 
+🎓 I'm linguist at UFSCar (Federal University of São Carlos). I'm learning python for computational linguistics, but I'm open to learn all other languages.
+I hope to collaborate with studies on Computational Linguistics with Brazilian Portuguese.
 
-### Tenho interesses e curiosidades em:
-    - NLP 
-    - Linguística computacional
+
+### My currently interesting in NLP is:
+    - sentiment analysis;
+    - text classification;
+    - entity recognition ;
+    - opinions and trends analysis.
     
     😉
 
@@ -17,7 +20,7 @@
 
   
   
-  ### Canais: 
+  ### channels 
   
 <div> 
   <a href="https://www.linkedin.com/in/gabriela-gimenez-787047a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
