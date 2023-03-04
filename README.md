@@ -16,9 +16,9 @@ I hope to collaborate with studies on Computational Linguistics with Brazilian P
 <div style="display: inline_block"><br>
   <img align="center" alt="Gaybs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gaybs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gaybs-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gaybs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
+  <img align="center" alt="Gaybs-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
    
 </div>
 
