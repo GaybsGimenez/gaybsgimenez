@@ -12,6 +12,7 @@ I hope to collaborate with studies on Computational Linguistics with Brazilian P
     
     😉
 
+
 </div>   
     <div style="display: inline_block"><br>
     <img align="center" alt="Gaybs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
