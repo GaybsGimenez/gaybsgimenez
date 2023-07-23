@@ -1,16 +1,15 @@
 ## Hello! I'm Gabriela! 👋
 
-🎓 I'm linguist at UFSCar (Federal University of São Carlos). I'm learning python for computational linguistics, but I'm open to learn all other languages.
-I hope to collaborate with studies on Computational Linguistics with Brazilian Portuguese.
+🎓 Sou linguista pela UFSCar (Universidade Federal de São Carlos). Minha paixão está no campo da linguística computacional. 
 
+Estou particularmente interessada em contribuir com os estudos em Linguística Computacional com foco no Português Brasileiro. Minhas áreas de especialização e interesses atuais em Processamento de Linguagem Natural (NLP) incluem:
 
-### My currently interesting in NLP is:
-    - sentiment analysis;
-    - text classification;
-    - entity recognition ;
-    - opinions and trends analysis.
-    
-    😉
+* Análise de sentimento: analisando e compreendendo os sentimentos expressos no texto.
+* Classificação de texto: categorização e organização de dados textuais com base em critérios específicos.
+* Reconhecimento de entidade: identificando e extraindo entidades nomeadas do texto.
+* Análise de opiniões e tendências: estudar e extrair insights de opiniões e tendências expressas em texto.
+
+Sou uma entusiasta com o potencial da NLP e suas aplicações em vários domínios. Estou buscando ativamente oportunidades para colaborar em projetos relacionados à linguística computacional e NLP. Vamos nos conectar e explorar possibilidades! 😉
 
 
 <div>   
