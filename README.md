@@ -6,7 +6,7 @@ Estou particularmente interessada em contribuir com os estudos em Linguística C
 
 * Análise de sentimento: analisando e compreendendo os sentimentos expressos no texto e áudio.
 * Classificação de texto: categorização e organização de dados textuais com base em critérios específicos.
-* Reconhecimento de entidade: identificando e extraindo entidades nomeadas do texto.
+* Reconhecimento de entidade: identificando e extraindo dados textuais.
 * Análise de opiniões e tendências: estudar e extrair insights de opiniões e tendências expressas em texto.
 
 Sou uma entusiasta com o potencial da NLP e suas aplicações em vários domínios. Estou buscando ativamente oportunidades para colaborar em projetos relacionados à linguística computacional e NLP. Vamos nos conectar e explorar possibilidades! 😉
