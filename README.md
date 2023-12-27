@@ -1,17 +1,3 @@
-## Olá!! Me chamo Gabriela! 👋
-
-🎓 Sou linguista pela UFSCar (Universidade Federal de São Carlos). Minha paixão está no campo da linguística computacional. 
-
-Estou particularmente interessada em contribuir com os estudos em Linguística Computacional com foco no Português Brasileiro. Minhas áreas de interesses atuais em Processamento de Linguagem Natural (NLP) incluem:
-
-* Análise de sentimento: analisando e compreendendo os sentimentos expressos no texto e áudio.
-* Classificação de texto: categorização e organização de dados textuais com base em critérios específicos.
-* Reconhecimento de entidade: identificação e extração de dados em arquivos de texto.
-* Análise de opiniões e tendências: estudar e extrair insights de opiniões e tendências expressas em texto.
-
-Sou uma entusiasta com o potencial da NLP e suas aplicações em vários domínios. Estou buscando ativamente oportunidades para colaborar em projetos relacionados à linguística computacional e NLP. Vamos nos conectar e explorar possibilidades! 😉
-
-
 <div>   
 <div style="display: inline_block"><br>
     <img align="center" alt="Gaybs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
